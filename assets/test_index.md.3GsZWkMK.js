@@ -1,0 +1,2 @@
+import{_ as a,c as s,o as n,j as e}from"./chunks/framework.mwVxMWDm.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"0":"l","1":"a","2":"n","3":"g","4":":","5":"e","6":"n","7":"-","8":"u","9":"s"},"headers":[],"relativePath":"test/index.md","filePath":"test/index.md"}'),r={name:"test/index.md"};function d(o,t,l,c,i,p){return n(),s("div",null,t[0]||(t[0]=[e("div",{class:"vp-raw"},[e("pre",null,[e("code",null,`this is raw area
+`)])],-1),e("code",null,[e("h1",null,"asdcsdc")],-1)]))}const _=a(r,[["render",d]]);export{m as __pageData,_ as default};
